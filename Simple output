@@ -1,0 +1,7 @@
+class sample
+{
+public static access specifier(String args[])
+{
+System.out.println("Welcome")
+}
+}
