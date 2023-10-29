@@ -32,7 +32,7 @@ In this section, we analyze the dataset, handle missing data, and perform data p
 
 ## Modeling 🤖
 
-Here, we delve into the heart of the project: building machine learning models to predict various auction features, including closing prices, the number of bids per auction, bidder rates, and bid times.
+Here, we dwelve into the heart of the project: building machine learning models to predict various auction features, including closing prices, the number of bids per auction, bidder rates, and bid times.
 
 ### Key Models:
 
@@ -58,6 +58,6 @@ This section presents the results of the predictive models, including RMSE score
 Feel free to contribute to this project by opening issues, proposing new features, or providing improvements. Your input is highly appreciated!
 
 
-Made with ❤️ by [Your Name]
+
 
 ![GitHub](https://img.shields.io/github/license/yourusername/your-repo)
